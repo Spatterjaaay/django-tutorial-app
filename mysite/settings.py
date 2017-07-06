@@ -25,7 +25,7 @@ SECRET_KEY = 'wx4(h2el+%kl!m566+(vo%eme6r$ur@b_x*e2j(!u-bc$es&kx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'spatterjay.pythonanywhere.com']
 
 
 # Application definition
